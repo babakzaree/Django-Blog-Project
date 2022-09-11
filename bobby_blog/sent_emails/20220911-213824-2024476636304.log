@@ -1,0 +1,25 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: Password reset on localhost:8000
+From: webmaster@localhost
+To: TestUser@company.com
+Date: Sun, 11 Sep 2022 17:08:24 -0000
+Message-ID: <166291610449.1260.16742844865379092399@Babaks-ROG>
+
+
+You're receiving this email because you requested a password reset for your user account at localhost:8000.
+
+Please go to the following page and choose a new password:
+
+http://localhost:8000/reset/Ng/bblw40-87c40828db409cbdd348634b958c9da1
+
+Your username, in case you’ve forgotten: TestUser
+
+Thanks for using our site!
+
+The localhost:8000 team
+
+
+
+-------------------------------------------------------------------------------
